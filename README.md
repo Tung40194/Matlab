@@ -1,2 +1,2 @@
-A water-fall counter simulation with matlab
-This file is executable on matlab 2018 and above
+A water-fall Counter (from 1 tp 99) simulation with matlab.
+Matlab version 2018 and above
